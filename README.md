@@ -1,6 +1,7 @@
 
 # Python for Beginners
-
+![Python for Beginners](./Screenshot from 2024-07-16 17-56-16.png)
+g
 This repository provides a strong introduction to Python and its data science libraries.
 
 ## Notes
