@@ -42,32 +42,8 @@ This information can be depicted using the confusion matrix of the algorithm.
 
 
 <img src="Confusion_Matrix.png" alt="confusion_Matrix" width="500">
-### Definitions in LaTeX
 
-### Definitions in LaTeX
+In order to better understand the ideas of the metrics I will cit their definitions :
 
-The definitions of accuracy, precision, recall, and F1 score are as follows:
+<img src="Metrics.png" alt="Metrics" width="500">
 
-- **Accuracy**: The ratio of correctly predicted instances to the total instances.
-
-  \[
-  \text{Accuracy} = \frac{TP + TN}{TP + TN + FP + FN}
-  \]
-
-- **Precision**: The ratio of correctly predicted positive observations to the total predicted positives.
-
-  \[
-  \text{Precision} = \frac{TP}{TP + FP}
-  \]
-
-- **Recall (Sensitivity)**: The ratio of correctly predicted positive observations to all observations in the actual class.
-
-  \[
-  \text{Recall} = \frac{TP}{TP + FN}
-  \]
-
-- **F1 Score**: The weighted average of Precision and Recall.
-
-  \[
-  \text{F1 Score} = 2 \times \frac{\text{Precision} \times \text{Recall}}{\text{Precision} + \text{Recall}}
-  \]
