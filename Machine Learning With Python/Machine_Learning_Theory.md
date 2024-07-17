@@ -40,8 +40,8 @@ For better understanding, we will use the binary classification problem (e.g., m
 
 This information can be depicted using the confusion matrix of the algorithm.
 
-![Confusion Matrix](Confusion_Matrix)
 
+<img src="Confusion_Matrix" alt="Python for Beginners" width="500">
 ### Definitions in LaTeX
 
 The definitions of accuracy, precision, recall, and F1 score are as follows:
