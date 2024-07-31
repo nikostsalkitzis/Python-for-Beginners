@@ -27,3 +27,4 @@ pip install matplotlib
 pip install seaborn
 pip install pillow
 pip install tkinter # only for Linux
+pip install torch torchvision torchaudio
