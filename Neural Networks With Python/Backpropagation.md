@@ -68,3 +68,6 @@ where $\eta$ is the learning rate, a hyperparameter that controls the size of th
 ## Conclusion
 
 By iteratively applying these updates through multiple epochs, the neural network adjusts its weights and biases to minimize the loss function, thereby improving its performance on the training data. Backpropagation is a crucial component in the training of neural networks, enabling them to learn complex patterns and relationships in the data.
+
+[Previous: Loss Functions](Loss%20Functions.md) | [Next: Optimizers](Optimizers.md)
+
