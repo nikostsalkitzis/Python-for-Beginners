@@ -2,6 +2,7 @@
 # Python for Beginners
 <img src="Screenshot from 2024-07-16 17-56-16.png" alt="Python for Beginners" width="500">
 This repository provides a strong introduction to Python and its data science libraries.
+Furthemore, Machine Learning, Neural Networks and AI technology is being discussed and implemented.
 
 ## Notes
 
