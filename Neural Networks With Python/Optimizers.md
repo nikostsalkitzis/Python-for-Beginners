@@ -185,4 +185,4 @@ $$
 Each optimizer has its own strengths and weaknesses. The choice of optimizer can significantly impact the training speed and convergence of a neural network. Often, Adam and its variants are used due to their generally good performance across a wide range of tasks.
 
 Feel free to experiment with different optimizers to find the one that works best for your neural network model.
-[Previous: Backpropagation](Backpropagation.md) | [Next: Regularization Techniques](Regularization%20fTechniques.md)
+[Previous: Backpropagation](Backpropagation.md) | [Next: Regularization Techniques](Regularization%20Techniques.md)
