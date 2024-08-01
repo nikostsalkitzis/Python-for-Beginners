@@ -155,4 +155,4 @@ Each activation function has its strengths and weaknesses. The choice of activat
 
 Feel free to experiment with different activation functions to find the one that works best for your neural network model.
 
-[Previous: Overview and Introduction](General Theory For Neural Networks.md) | [Next: Loss Functions](Loss Functions.md)
+[Previous: Overview and Introduction](General%20Theory%20For%20Neural%20Networks.md) | [Next: Loss Functions](Loss%20Functions.md)
