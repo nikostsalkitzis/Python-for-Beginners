@@ -1,3 +1,9 @@
+"""
+The provided code performs Neural Style Transfer (NST), a technique that combines the content of one image (the content image) with the style of another image (the style image) to produce a new image that maintains the content of the first image while adopting the visual style of the second image
+"""
+
+
+
 import torch
 import torch.nn as nn
 import torch.optim as optim
