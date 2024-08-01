@@ -25,6 +25,9 @@ Tetris is a classic tile-matching puzzle game where players fit falling shapes (
 - Use the arrow keys to move and rotate tetrominoes.
 - Place the tetrominoes to form complete horizontal lines.
 
+<img src="Tetris_game.png" alt="Python for Beginners" width="200">
+
+
 ## Space Invaders
 
 Space Invaders is a retro arcade game where players control a spaceship to shoot and destroy descending aliens. The objective is to prevent the aliens from reaching the bottom of the screen.
@@ -39,6 +42,8 @@ Space Invaders is a retro arcade game where players control a spaceship to shoot
 - Move the spaceship left and right using the arrow keys.
 - Shoot lasers with the spacebar to destroy aliens.
 
+<img src="space_invaders_game.png" alt="Python for Beginners" width="200">
+
 ## Pong
 
 Pong is one of the earliest arcade video games, simulating table tennis. Players control paddles to hit a ball back and forth. The objective is to score points by getting the ball past the opponent’s paddle.
@@ -51,6 +56,8 @@ Pong is one of the earliest arcade video games, simulating table tennis. Players
 ### How to Play
 - Player 1: Use `W` and `S` keys to move the left paddle.
 - Player 2: Use the Up and Down arrow keys to move the right paddle.
+
+<img src="pong_game.png" alt="Python for Beginners" width="200">
 
 ## Flappy Bird
 
@@ -76,6 +83,8 @@ Brick Breaker is a classic arcade game where players control a paddle to bounce 
 ### How to Play
 - Move the paddle using the left and right arrow keys.
 - Bounce the ball to break bricks and score points.
+
+<img src="brick_breaker.png" alt="Python for Beginners" width="200">
 
 ## Installation and Usage
 
