@@ -54,3 +54,4 @@ The hinge loss aims to achieve a margin of at least 1 between the decision bound
 
 Loss functions are critical in neural networks as they guide the optimization process during training. The choice of an appropriate loss function depends on the specific problem and the nature of the data. By minimizing the chosen loss function, the neural network learns to make accurate predictions or classifications based on the input data.
 
+[Previous: Activation Functions](Activation%20functions.md) | [Next: Backpropagation](Backpropagation.md)
