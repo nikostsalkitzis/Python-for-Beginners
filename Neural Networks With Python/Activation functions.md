@@ -154,4 +154,5 @@ where $x_i$ is the input to the $i$-th neuron, and the sum is over all the neuro
 Each activation function has its strengths and weaknesses. The choice of activation function can significantly impact the performance of a neural network, and often the best function depends on the specific problem and architecture.
 
 Feel free to experiment with different activation functions to find the one that works best for your neural network model.
+
 [Previous: Overview and Introduction](General Theory For Neural Networks.md) | [Next: Loss Functions](Loss Functions.md)
