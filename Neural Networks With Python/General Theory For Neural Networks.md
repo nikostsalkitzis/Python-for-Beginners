@@ -6,5 +6,5 @@ A critical aspect of neural networks is the use of activation functions, which i
 
 Neural networks have proven to be incredibly versatile and powerful, capable of handling a wide range of tasks, including image and speech recognition, natural language processing, and game playing. Their ability to learn from large datasets and improve performance as more data becomes available makes them a cornerstone of modern artificial intelligence. However, they also come with challenges, such as the need for large amounts of labeled data, significant computational resources, and the potential for overfitting, where the model becomes too closely tailored to the training data and performs poorly on new, unseen data. Despite these challenges, ongoing research and advancements continue to enhance the capabilities and efficiency of neural networks, expanding their applications across various fields.
 
-[Next: Activation Functions](Activation%20Functions.md)
+[Next: Activation Functions](Activation%20functions.md)
 
