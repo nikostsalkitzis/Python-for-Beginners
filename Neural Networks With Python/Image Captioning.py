@@ -1,3 +1,6 @@
+"""
+Image Captioning is a technique that generates a textual description of an image. This involves combining Convolutional Neural Networks (CNNs) for image feature extraction with Recurrent Neural Networks (RNNs) or Transformers for generating captions.
+"""
 import torch
 import torch.nn as nn
 import torch.optim as optim
